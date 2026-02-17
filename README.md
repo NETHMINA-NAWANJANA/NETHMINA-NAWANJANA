@@ -6,13 +6,6 @@
 
 ---
 
-
-- 🔭 I’m currently working on **Safe WebBrowser**
-
-- 🌱 I’m currently learning **Python**
-
-- 💬 Ask me about **Python**
-
 - 📫 How to reach me **nntech2007@gmail.com**
 ---
 <h3 align="center">Connect with me:</h3>
