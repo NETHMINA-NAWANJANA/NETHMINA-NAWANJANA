@@ -8,6 +8,15 @@
   Passionate about building modern software, web applications, APIs, and creative digital experiences.
 </p>
 
+<p align="center">
+  <a href="https://nethminanawanjana.vercel.app">
+    <img src="https://img.shields.io/badge/🌐_My_Portfolio-Visit_Website-46E3B7?style=for-the-badge" />
+  </a>
+  <a href="https://www.linkedin.com/in/nethmina-nawanjana-19475b394">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
 ---
 
 ## 👨‍💻 About Me
@@ -103,34 +112,50 @@ Completed **CS50's Introduction to Programming with Python**, including nine pro
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://nethminanawanjana.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-46E3B7?style=for-the-badge&logo=vercel&logoColor=black" />
+  </a>
+  <a href="https://www.linkedin.com/in/nethmina-nawanjana-19475b394">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/nethmina_nawanjana">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://www.tiktok.com/@n.n_tech">
+    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@N.N_TECH">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://facebook.com/share/1A8xewXaV5">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="mailto:nntech2007@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://www.instagram.com/nethmina_nawanjana">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+---
 
-<a href="https://www.tiktok.com/@n.n_tech">
-  <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-</a>
+## 🤝 Let's Work Together!
 
-<a href="https://www.youtube.com/@N.N_TECH">
-  <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-</a>
+I'm open to connecting with developers, collaborating on exciting projects, and exploring new opportunities.
 
-<a href="https://facebook.com/share/1A8xewXaV5">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-</a>
+**Have a project or an idea? Let's connect!**
 
-<a href="mailto:nntech2007@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
+<p align="center">
+  <a href="mailto:nntech2007@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-Get_In_Touch-46E3B7?style=for-the-badge&logo=gmail&logoColor=black" />
+  </a>
 </p>
 
 ---
 
 <p align="center">
   <b>Building. Learning. Creating.</b>
+  <br/>
+  <sub>© 2026 R.A. Nethmina Nawanjana | NN TECH</sub>
 </p>
